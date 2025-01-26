@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Joicy
 
 
-- 🔭 Hoje busco trabalho em back-end 
+- 🔭 Buscando estágio em back-end 
 - 🌱 Estudando Python
 
   <div style="display: inline_block"><br>
