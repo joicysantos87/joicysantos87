@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou a Joicy
 
-- 🔭 Buscando estágio em **Back-end**
-- 🌱 Estudando **Python** e **Java**
+- 🔭 Buscando oportunidade em **Back-end**
+- 🌱 Estudo **Cobol** e **Java** mas você também encontrará projetos pessoais em outras linguagens
 - 💡 Interesses: desenvolvimento back-end, automação e boas práticas de código.
 
 ---
