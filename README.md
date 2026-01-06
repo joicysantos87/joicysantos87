@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou a Joicy
 
-- 🔭 Buscando oportunidade em **Back-end**
-- 🌱 Estudo **Cobol** e **Java** mas você também encontrará projetos pessoais em outras linguagens
+- 🔭 Buscando oportunidade **Fullstack**
+- 🌱 Estudo **Cobol** e **Java** mas você também encontrará projetos pessoais em outras linguagens também.
 - 💡 Interesses: desenvolvimento back-end, automação e boas práticas de código.
 
 ---
@@ -33,21 +33,5 @@
 </div>
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=joicysantos87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&v=2"
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicysantos87&layout=compact&theme=tokyonight&v=2"
-  />
-</p>
-
----
-
 ### ✨ Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em SAP e linguagem Java. Atuo demonstrando organização, empatia e habilidade para resolver problemas de forma prática e eficiente. Busco constante aprimoramento e certificações na área de tecnologia.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento fullstack. Atuo demonstrando organização, empatia e habilidade para resolver problemas de forma prática e eficiente. Busco constante aprimoramento e certificações na área de tecnologia.
