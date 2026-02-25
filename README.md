@@ -35,7 +35,6 @@
 
 
 
-🔧 Ferramentas: Cypress | Selenium (básico) | Git | GitHub | VS Code
 
 ---
 
