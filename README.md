@@ -1,12 +1,29 @@
 ## 👋 Olá! Eu sou a Joicy
 
-- 🔭 Buscando oportunidade **Fullstack**
-- 🌱 Estudo **Cobol** e **Java** mas você também encontrará projetos pessoais em outras linguagens também.
-- 💡 Interesses: desenvolvimento back-end, automação e boas práticas de código.
+🎯 Analista de Testes Jr | QA  
+🎓 Formada em Análise e Desenvolvimento de Sistemas  
+📍 Brasil  
+
+- 🔎 Buscando oportunidade como **Analista de Testes Jr**
+- 🧪 Foco em **Testes Manuais, Testes de API e Automação**
+- 💡 Interesses: qualidade de software, melhoria de processos, automação de testes e boas práticas.
 
 ---
 
-### 💻 Linguagens e Tecnologias
+### 🧪 Competências em Qualidade de Software
+
+- ✔️ Elaboração de Plano de Testes
+- ✔️ Escrita de Casos de Teste
+- ✔️ Criação de Cenários de Teste
+- ✔️ Registro e documentação de Bugs
+- ✔️ Testes Funcionais, Regressivos e Exploratórios
+- ✔️ Testes de API (Postman)
+- ✔️ Noções de SQL para validação de dados
+- ✔️ Metodologia Ágil (Scrum)
+
+---
+
+### 💻 Linguagens e Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -16,22 +33,23 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
----
-
-### 🌐 Redes Sociais
-
-<div> 
-  <a href="https://instagram.com/joicysantos86" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:joicyelesantos@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/joicyelle-gonçalves-53322587" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+🔧 Ferramentas: Postman | Selenium (básico) | Git | GitHub | VS Code
 
 ---
+
+### 📂 Projetos em Destaque
+
+Aqui você encontrará:
+
+- 📁 Projetos de Testes Manuais
+- 📁 Automação de Testes Web
+- 📁 Testes de API
+- 📁 Exemplos de Bug Reports e Planos de Teste
+
+---
+
 ### ✨ Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento fullstack. Atuo demonstrando organização, empatia e habilidade para resolver problemas de forma prática e eficiente. Busco constante aprimoramento e certificações na área de tecnologia.
+
+Profissional formada em Análise e Desenvolvimento de Sistemas, com foco em Qualidade de Software.  
+Possuo perfil analítico, atenção a detalhes e forte comprometimento com a entrega de sistemas confiáveis e funcionais.  
+Busco oportunidade para aplicar conhecimentos técnicos em testes e contribuir para a melhoria contínua dos produtos.
