@@ -35,7 +35,7 @@
 
 
 
-🔧 Ferramentas: Postman | Selenium (básico) | Git | GitHub | VS Code
+🔧 Ferramentas: Cypress | Selenium (básico) | Git | GitHub | VS Code
 
 ---
 
