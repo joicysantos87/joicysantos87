@@ -4,10 +4,6 @@
 🎓 Formada em Análise e Desenvolvimento de Sistemas  
 📍 Brasil  
 
-- 🔎 Buscando oportunidade como **Analista de Testes Jr**
-- 🧪 Foco em **Testes Manuais, Testes de API e Automação**
-
-
 ---
 
 ### 🧪 Competências em Qualidade de Software
