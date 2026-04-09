@@ -1,12 +1,12 @@
 ## 👋 Olá! Eu sou a Joicy
 
-🎯 Analista de Testes Jr | QA  
+
 🎓 Formada em Análise e Desenvolvimento de Sistemas  
 📍 Brasil  
 
 - 🔎 Buscando oportunidade como **Analista de Testes Jr**
 - 🧪 Foco em **Testes Manuais, Testes de API e Automação**
-- 💡 Interesses: qualidade de software, melhoria de processos, automação de testes e boas práticas.
+
 
 ---
 
